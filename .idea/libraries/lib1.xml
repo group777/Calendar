@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-context-support-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-instrument-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-aspects-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-jdbc-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-expression-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-instrument-tomcat-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-orm-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-tx-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-jms-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-aop-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-messaging-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-test-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-core-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-oxm-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-beans-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/lib/spring-context-4.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
