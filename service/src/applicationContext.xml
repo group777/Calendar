@@ -11,12 +11,12 @@
         <constructor-arg ref="calendarDataStore"/>
     </bean>
 
-    <!--<bean class="org.springframework.remoting.rmi.RmiServiceExporter">-->
-    <!--&lt;!&ndash; does not necessarily have to be the same name as the bean to be exported &ndash;&gt;-->
-    <!--<property name="serviceName" value="CalendarService"/>-->
-    <!--<property name="service" ref="calendarService"/>-->
-    <!--<property name="serviceInterface" value="com.diosoft.sample.calendar.service.CalendarService"/>-->
-    <!--&lt;!&ndash; defaults to 1099 &ndash;&gt;-->
-    <!--<property name="registryPort" value="1199"/>-->
-    <!--</bean>-->
+    <bean class="org.springframework.remoting.rmi.RmiServiceExporter">
+        <!-- does not necessarily have to be the same name as the bean to be exported -->
+        <property name="serviceName" value="CalendarService"/>
+        <property name="service" ref="calendarService"/>
+        <property name="serviceInterface" value="com.diosoft.sample.calendar.service.CalendarService"/>
+        <!-- defaults to 1099 -->
+        <property name="registryPort" value="1199"/>
+    </bean>
 </beans>
